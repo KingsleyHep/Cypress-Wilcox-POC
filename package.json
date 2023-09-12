@@ -10,6 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^4.2.0"
+    "fs-extra": "^11.1.1"
+  },
+  "devDependencies": {
+    "@cypress/snapshot": "^2.1.7",
+    "cypress": "^13.1.0",
+    "cypress-visual-regression": "^3.0.0"
   }
 }

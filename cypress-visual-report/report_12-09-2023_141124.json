@@ -1,0 +1,31 @@
+{
+  "total": 1,
+  "totalPassed": 1,
+  "totalFailed": 0,
+  "totalSuites": 1,
+  "suites": [
+    {
+      "name": "test_visible_screen_changes.cy.js",
+      "path": "cypress\\e2e\\test_visible_screen_changes.cy.js",
+      "tests": [
+        {
+          "status": "pass",
+          "name": "test_visible_screen_changes.cy-WCfirst",
+          "percentage": 0,
+          "failureThreshold": "VFfirst",
+          "specPath": "cypress\\e2e\\test_visible_screen_changes.cy.js",
+          "specFilename": "test_visible_screen_changes.cy.js",
+          "baselinePath": "cypress-visual-screenshots\\baseline\\test_visible_screen_changes.cy-WCfirst.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-visual-screenshots\\comparison\\test_visible_screen_changes.cy-WCfirst.png"
+        }
+      ]
+    }
+  ],
+  "startedAt": "2023-09-12T13:11:24.098Z",
+  "endedAt": "2023-09-12T13:12:31.392Z",
+  "duration": 58772,
+  "browserName": "electron",
+  "browserVersion": "106.0.5249.51",
+  "cypressVersion": "13.1.0"
+}

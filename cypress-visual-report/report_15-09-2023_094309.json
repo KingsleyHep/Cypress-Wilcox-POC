@@ -1,0 +1,48 @@
+{
+  "total": 2,
+  "totalPassed": 0,
+  "totalFailed": 2,
+  "totalSuites": 2,
+  "suites": [
+    {
+      "name": "wilcox_testsite_visual_regression_accounts_menu.cy.js",
+      "path": "cypress\\e2e\\visual_regression_tests\\wilcox_testsite_visual_regression_accounts_menu.cy.js",
+      "tests": [
+        {
+          "status": "fail",
+          "name": "wilcox_testsite_visual_regression_accounts_menu.cy-WC test opening page",
+          "percentage": 0.6110155961530307,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\visual_regression_tests\\wilcox_testsite_visual_regression_accounts_menu.cy.js",
+          "specFilename": "wilcox_testsite_visual_regression_accounts_menu.cy.js",
+          "baselinePath": "cypress-visual-screenshots\\baseline\\wilcox_testsite_visual_regression_accounts_menu.cy-WC test opening page.png",
+          "diffPath": "cypress-visual-screenshots\\diff\\wilcox_testsite_visual_regression_accounts_menu.cy-WC test opening page.png",
+          "comparisonPath": "cypress-visual-screenshots\\comparison\\wilcox_testsite_visual_regression_accounts_menu.cy-WC test opening page.png"
+        }
+      ]
+    },
+    {
+      "name": "wilcox_testsite_visual_regression_farm_menu.cy.js",
+      "path": "cypress\\e2e\\visual_regression_tests\\wilcox_testsite_visual_regression_farm_menu.cy.js",
+      "tests": [
+        {
+          "status": "fail",
+          "name": "wilcox_testsite_visual_regression_farm_menu.cy-WC test opening page",
+          "percentage": 0.6114282168909955,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\visual_regression_tests\\wilcox_testsite_visual_regression_farm_menu.cy.js",
+          "specFilename": "wilcox_testsite_visual_regression_farm_menu.cy.js",
+          "baselinePath": "cypress-visual-screenshots\\baseline\\wilcox_testsite_visual_regression_farm_menu.cy-WC test opening page.png",
+          "diffPath": "cypress-visual-screenshots\\diff\\wilcox_testsite_visual_regression_farm_menu.cy-WC test opening page.png",
+          "comparisonPath": "cypress-visual-screenshots\\comparison\\wilcox_testsite_visual_regression_farm_menu.cy-WC test opening page.png"
+        }
+      ]
+    }
+  ],
+  "startedAt": "2023-09-15T08:43:09.081Z",
+  "endedAt": "2023-09-15T08:43:44.159Z",
+  "duration": 31284,
+  "browserName": "electron",
+  "browserVersion": "106.0.5249.51",
+  "cypressVersion": "13.1.0"
+}
